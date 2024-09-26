@@ -1,5 +1,5 @@
 ## Olá, eu sou Júlio Matos! 🫡
-- 🌱 Estudante
+- 🌱 Estudante (Bacharelado em Sistemas de Informação)
 - 🔍 Buscando uma oportunidade na área de TI / Segurança da Informação
 - ## Tecnologias que eu uso
 <div style="display: inline_block">
