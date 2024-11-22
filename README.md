@@ -1,5 +1,5 @@
 # 🗯 About Me:
-📚 Estudante (Bacharelado em Sistemas de Informação)<br>🔎 Buscando uma oportunidade na área de TI / Segurança da Informação
+📚 Estudante (Bacharelado em Sistemas de Informação)<br>
 
 
 ## 🌐 Socials:
